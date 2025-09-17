@@ -19,6 +19,14 @@ This repository demonstrates practical knowledge and expertise across various te
 - **Complexity Analysis** - Time and space complexity, Big O notation
 - **Coding Patterns** - Common interview patterns and optimization techniques
 
+### System Design
+- **Architectural Patterns** - Microservices, event-driven, serverless, SOA
+- **Scalability** - Load balancing, auto-scaling, horizontal/vertical scaling
+- **Distributed Systems** - CAP theorem, consensus algorithms, message queues
+- **Database Design** - SQL vs NoSQL, sharding, replication, indexing
+- **Performance** - Caching strategies, CDN, query optimization
+- **Monitoring** - Distributed tracing, metrics, alerting, SLI/SLO
+
 ### Frameworks & Libraries
 - **Node.js** - Server-side JavaScript, event-driven architecture
 - **Express.js** - RESTful APIs, middleware, routing
