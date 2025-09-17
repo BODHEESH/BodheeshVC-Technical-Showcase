@@ -12,6 +12,13 @@ This repository demonstrates practical knowledge and expertise across various te
 - **SQL** - Complex queries, joins, stored procedures
 - **C** - Memory management, pointers, data structures
 
+### Data Structures & Algorithms
+- **Data Structures** - Arrays, linked lists, stacks, queues, trees, graphs, hash tables
+- **Algorithms** - Sorting, searching, dynamic programming, greedy algorithms
+- **Problem Solving** - Two pointers, sliding window, backtracking, divide & conquer
+- **Complexity Analysis** - Time and space complexity, Big O notation
+- **Coding Patterns** - Common interview patterns and optimization techniques
+
 ### Frameworks & Libraries
 - **Node.js** - Server-side JavaScript, event-driven architecture
 - **Express.js** - RESTful APIs, middleware, routing
